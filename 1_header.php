@@ -10,11 +10,11 @@
     <div class="header-contacts">
       <div class="header-contacts__phones">
         <div class="header-contacts__phone">
-          <a  href="tel:8-(347)-271-54-28" data-rel="external">8 (904) 271-54-28</a>
+          <a  href="tel:+7-499-163-71-93" data-rel="external">+7 (499) 163-71-93</a>
         </div>
         <!-- /.header-contacts__phone -->
         <div class="header-contacts__phone">
-          <a href="tel:8-(937)-363-30-00" data-rel="external">8 (900) 363-30-00</a>
+          <a href="tel:+7-926-037-80-27" data-rel="external">+7 (926) 037-80-27</a>
         </div>
         <!-- /.header-contacts__phone -->
       </div>
@@ -28,28 +28,24 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
 
-    <li class="nav-item"><a class="nav-link slowly" href="#triggers">О нас</a></li>
+    <li class="nav-item"><a class="nav-link slowly" href="#triggers" data-toggle="collapse" data-target=".navbar-collapse.show">О нас</a></li>
 
       <li class="nav-item dropdown">
         <a class="nav-link slowly dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Наша продукция</a>
         <div class="dropdown-menu">
-          <a href="#tablecloth" class="dropdown-item slowly">Скатерти напероны салфетки</a>
-          <a href="#stretch" class="dropdown-item slowly">Стрейч чехлы</a>
-          <a href="#uniform" class="dropdown-item slowly">Фартуки и униформа</a>
+          <a href="#tablecloth" class="dropdown-item slowly" data-toggle="collapse" data-target=".navbar-collapse.show">Скатерти напероны салфетки</a>
+          <a href="#stretch" class="dropdown-item slowly" data-toggle="collapse" data-target=".navbar-collapse.show">Стрейч чехлы</a>
+          <a href="#uniform" class="dropdown-item slowly" data-toggle="collapse" data-target=".navbar-collapse.show">Фартуки и униформа</a>
         </div>
       </li>
 
   
-      <li class="nav-item"><a class="nav-link slowly" href="#lease">Аренда</a></li>
+      <li class="nav-item"><a class="nav-link slowly" href="#lease" data-toggle="collapse" data-target=".navbar-collapse.show">Аренда</a></li>
 
-      <li class="nav-item"><a class="nav-link slowly" href="#individually">Логотипы</a></li>
-      <li class="nav-item"><a class="nav-link slowly" href="#cases">Портфолио</a></li>
-      <li class="nav-item"><a class="nav-link slowly" href="#steps">Схема работы</a></li>
-
-
-
-
-      <li class="nav-item"><a class="nav-link slowly" href="#footer">Контакты</a></li>
+      <li class="nav-item"><a class="nav-link slowly" href="#individually" data-toggle="collapse" data-target=".navbar-collapse.show">Логотипы</a></li>
+      <li class="nav-item"><a class="nav-link slowly" href="#cases" data-toggle="collapse" data-target=".navbar-collapse.show">Портфолио</a></li>
+      <li class="nav-item"><a class="nav-link slowly" href="#steps" data-toggle="collapse" data-target=".navbar-collapse.show">Схема работы</a></li>
+      <li class="nav-item"><a class="nav-link slowly" href="#footer" data-toggle="collapse" data-target=".navbar-collapse.show">Контакты</a></li>
     </ul>
   </div>
 </nav>
@@ -65,11 +61,11 @@
         <div class="header-contacts">
           <div class="header-contacts__phones">
             <div class="header-contacts__phone">
-              8 (347) 271-54-28
+              <a  href="tel:+7-499-163-71-93" data-rel="external">+7 (499) 163-71-93</a>
             </div>
             <!-- /.header-contacts__phone -->
             <div class="header-contacts__phone">
-              8 (937) 363-30-00
+              <a href="tel:+7-926-037-80-27" data-rel="external">+7 (926) 037-80-27</a>
             </div>
             <!-- /.header-contacts__phone -->
           </div>

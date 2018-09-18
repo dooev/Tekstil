@@ -132,6 +132,12 @@
 				padding-right: 14px
 	.sm-fix
 		height: 57px
+	.footer
+		&-block__info 
+			img
+				width: 12%
+		.map
+			margin-right: -15px
 
  div:nth-child(3) > div:nth-child(2) > div > div.products-block__title
 	.offer
@@ -163,7 +169,8 @@
 	.reviews
 		padding-top: 10px
 		padding-left: 10px
-
+	.show
+		background: rgba(0,0,0,.4) !important
 	.navbar
 		padding: 7px 5px 10px
 		background: rgba(0,0,0,.8)
@@ -173,10 +180,16 @@
 			background: rgba(0,0,0,.8)
 			li
 				border: none
+				&:hover :focus
+					background: $accent
 				a
 					font-family: 'Roboto-Regular' , sans-serif
 					font-size: 18px
 					color: #fff
+					&:hover
+						color: #333
+			.dropdown-menu
+				background: #111 !important
 		.mob-menu
 			display: flex
 		.header-contacts__phone
@@ -251,7 +264,9 @@
 				font-size: 14px
 				font-weight: 300
 				line-height: 20px
-
+	.cases-slider .fotorama__caption__wrap
+		min-height: 70px
+		padding: 5px 15px
 
 
 	//  Popup
@@ -272,6 +287,13 @@
 				    font-weight: 300
 				&__input
 					margin-bottom: 10px
+	.footer
+		&-block__info 
+			img
+				width: 15%
+	// .thanks
+	// 	&__img
+	// 		max-width: 200px
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 569px)
@@ -297,7 +319,22 @@
 				font-size: 16px
 			&__input
 				padding: 5px
-
+	.footer
+		&-block
+			&__info 
+				img
+					width: 14%
+			&__mail
+				padding-left: 0
+				border: none
+			&__social
+				span
+					margin-bottom: -20px
+			&__pay
+				padding-top: 40px
+				border: none
+				span
+					margin-bottom: -20px
 
 
 
@@ -308,7 +345,14 @@
 	.main
 		.button-green
 			margin-bottom: 10px
-
+	.footer
+		&-block__info 
+			img
+				width: 20%
+	// .thanks
+	// 	&__img
+	// 		max-width: 400px
+	// 		align-self: center
 
 /*==========  Mobile First (НЕ МЕНЬШЕ ...px) ==========*/
 

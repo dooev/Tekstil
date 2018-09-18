@@ -20,7 +20,7 @@
           <img src="img/6_steps/2.svg" alt="">
         </div>
         <div class="steps-text">
-          Предоплата от 50 до 100%
+          Предоплата от 70 до 100%
         </div>
         <div class="steps-img2">
           <img src="img/6_steps/02.svg" alt="">

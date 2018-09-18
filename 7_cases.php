@@ -15,19 +15,30 @@
               <img class="fotorama__img" src="img/7_cases/333.jpg" data-caption='30 комплектов текстиля для ресторана "Голубые огни". <br> 1 комплект это: скатерть, наперон, 8 салфеток, 4 чехла на стулья <br>
               <b>Цена: 27400 руб</b><br>
               <b>Сроки: 3 дня</b><br>' alt="">
-              <img class="fotorama__img" src="img/7_cases/444.jpg" data-caption='12 комплектов одежды для офицантов в ресторан "Коричневый берег". <br> 1 комплект это: Жилетка, рубашка, галстук или бабочка, брюки или юбка.<br>
+              <img class="fotorama__img" src="img/7_cases/444.jpg" data-caption='12 комплектов одежды для офицантов в тот же ресторан "Голубые огни". <br> 1 комплект это: Жилетка, рубашка, галстук или бабочка, брюки или юбка.<br>
               <b>Цена: 17600 руб</b><br>
               <b>Сроки: 2 дня</b><br>' alt="">
-              <img class="fotorama__img" src="img/7_cases/555.jpg" data-caption='12 комплектов одежды для офицантов в ресторан "Коричневый берег". <br>
+              <img class="fotorama__img" src="img/7_cases/500.jpg" data-caption='полный комплект. Скатерти, одежда для офицантов, салфетки <br>
+              <b>Цена: 7600 руб</b><br>
+              <b>Сроки: 2 дня</b><br>' alt="">
+              <img class="fotorama__img" src="img/7_cases/555.jpg" data-caption='10 комплектов одежды для поворов в ресторан "Коричневый берег". <br>
+              <b>Цена: 7600 руб</b><br>
+              <b>Сроки: 2 дня</b><br>' alt="">
+              <img class="fotorama__img" src="img/7_cases/600.jpg" data-caption='30 стрейч чехлов на коктельные столы и 10 на прямоугольные <br>
               <b>Цена: 7600 руб</b><br>
               <b>Сроки: 2 дня</b><br>' alt="">
               <img class="fotorama__img" src="img/7_cases/666.jpg" data-caption='12 комплектов одежды для офицантов в ресторан "Коричневый берег". <br> 1 комплект это: Жилетка, рубашка, галстук или бабочка, брюки или юбка.<br>
               <b>Цена: 7600 руб</b><br>
               <b>Сроки: 2 дня</b><br>' alt="">
-              <img class="fotorama__img" src="img/7_cases/777.jpg" data-caption='60 стрейч чехлов на коктельные столы <br>
+              <img class="fotorama__img" src="img/7_cases/777.jpg" data-caption='30 стрейч чехлов на коктельные столы и 10 на прямоугольные <br>
               <b>Цена: 7600 руб</b><br>
               <b>Сроки: 2 дня</b><br>' alt="">
-
+              <img class="fotorama__img" src="img/7_cases/800.jpg" data-caption='Наряды для хора 20 шт <br>
+              <b>Цена: 7600 руб</b><br>
+              <b>Сроки: 2 дня</b><br>' alt="">
+              <img class="fotorama__img" src="img/7_cases/888.jpg" data-caption='Форма для горничных 400 шт <br>
+              <b>Цена: 7600 руб</b><br>
+              <b>Сроки: 2 дня</b><br>' alt="">
             </div>
           </div>
           <!-- /.individually-slider -->

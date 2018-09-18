@@ -1,0 +1,123 @@
+@import "fonts"
+@import "libs"
+@import "base"
+@import "vars"
+@import "1_header"
+@import "2_mainSection"
+@import "3_features"
+@import "4_products"
+@import "5_material"
+@import "6.0_individually"
+@import "6_steps"
+@import "7_cases"
+@import "8_lease"
+@import "9_offer"
+@import "reviews"
+@import "footer"
+@import "thanks"
+@import "modal"
+
+body
+	font-family: 'Roboto', sans-serif
+img
+	width: 100%
+a
+	color: #fff
+.d-flex
+	display: flex
+.bg-accent
+	background-color: #ffb700
+.sticky-top
+	z-index: 3
+
+.button
+	border: none
+	color: #333
+	font-size: 15px
+	font-weight: 500
+	padding: 17px
+	border-radius: 5px
+	background: $accent-btn
+	&:hover
+		background: $accent-btn-hover
+		cursor: pointer
+	&:focus
+		background: $accent-btn-active
+	&-big
+		border: none
+		padding: 20px
+		vertical-align: center
+	&-o
+		background-color: transparent
+		color: $text-light
+		border: none
+		opacity: 0.5
+		&:hover
+			background: lighten($text-light, 48)
+			cursor: pointer
+			color: #fff
+	&-l
+		padding-left: 30px
+		padding-right: 30px
+
+	&-green
+		background: transparent
+		border-color: $accent
+		border: 3px solid $accent
+		color: $accent
+		opacity: 1
+		&:hover
+			background: transparent
+			border: 3px solid lighten($accent, 10)
+			cursor: pointer
+			color: lighten($accent, 10)
+	&-full-katalog
+		width: 100%
+		color: #444
+		font-size: 20px
+		// background: $accent !important
+		// &:hover
+		// 	background: lighten($accent, 10) !important
+		// 	text-decoration: none !important
+
+
+
+.section
+	&-title
+		margin-bottom: 39px
+		font-size: 27px
+		font-weight: 700
+		line-height: 18px
+		text-transform: uppercase
+		text-align: center
+		color: $text-dark
+		&::after
+			margin-top: 12px
+			content: ''
+			display: block
+			height: 6px
+			background: url(../img/line.png) center no-repeat
+	&-subtitle
+		margin-bottom: 59px
+		display: block
+		text-align: center
+		font-size: 21px
+// затимнение экрана
+.dark-bg
+	position: relative
+	z-index: 2
+	&::before
+		content: ''
+		display: block
+		position: absolute
+		left: 0
+		top: 0
+		width: 100%
+		height: 100%
+		background-color: rgba(0, 0, 0, 0.7)
+		z-index: -1
+
+.margin-b-10
+	margin-bottom: 10px
+
+@import "media" // Всегда в конце

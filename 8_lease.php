@@ -9,7 +9,7 @@
           <div class="lease-block__title">Сделаем это за Вас
           </div>
           <!-- /.lease-block__title -->
-          <div class="lease-block__text">Отчистим, постираем, погладим.</div>
+          <div class="lease-block__text">Отчистим, постираем и погладим.</div>
           <!-- /.lease-block__text -->
         </div>
         <!-- /.lease-block -->
@@ -17,11 +17,14 @@
         <!-- /.col -->
         <div class="col-12 col-lg-4">
         <div class="lease-block  wow fadeInUp" data-wow-delay="0.1s">
-          <div class="lease-block__title">Доставка и хранение
+          <div class="lease-block__title">Доставка
           </div>
           <!-- /.lease-block__title -->
-          <div class="lease-block__text">Мы доставим текстиль в удобное для Вас время и место.<br> Заберем его!* <br>
-            <small>*услуга</small> </div>
+          <div class="lease-block__text">
+            Доставка по Москве 500 руб. <br>
+            Привезем в удобное Вам время и место. <br>
+            Отправляем по всей России.
+          </div>
           <!-- /.lease-block__text -->
         </div>
         <!-- /.lease-block -->
@@ -32,7 +35,7 @@
           <div class="lease-block__title">Большой асортимент
           </div>
           <!-- /.lease-block__title -->
-          <div class="lease-block__text">Наш выбор удовлетворит любой масштаб и эксклюзивность</div>
+          <div class="lease-block__text">Наш выбор удовлетворит любой масштаб и эксклюзивность.</div>
           <!-- /.lease-block__text -->
         </div>
         <!-- /.lease-block -->
@@ -41,7 +44,7 @@
       </div>
     <!-- /.row -->
           <div class="lease-block__buttons">
-            <a href="https://drive.google.com/file/d/1Ig27oqmXVh0L5I_zdk56LqF2ehh89vYU/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1I9bYE59d_bIv3L5mVQDaoKTKF8vn3Qjx/view?usp=sharing" target="_blank">
             <button class="button button-l btn-order" type="button">Посмотреть полный каталог с ценами на АРЕНДУ</button>
     </a>
          
