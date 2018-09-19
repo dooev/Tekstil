@@ -1,5 +1,5 @@
   <section id="offer" class="offer dark-bg">
-    <div class="container">
+    <div class="container fadeIn animated wow">
       <h2 class="offer-title">Оставьте свои данные и мы перезвоним Вам
         <span class="offer-title_small">в течении 10 минут!</span>
       </h2>
@@ -15,7 +15,7 @@
         <input type="hidden" name="utm_term" value="<?php $utm_term = $GET['utm_term']; echo $utm_term; ?>"> -->
       
         <small class="offer-form-small">* Мы никогда не передаем Ваши данные третьим лицам.</small>
-          <button type="submit" class="button offer-form__button">Оставить заявку!</button>
+          <button type="submit" class="button offer-form__button ">Оставить заявку!</button>
       </form>
       <!-- /.offer-form -->
     </div>

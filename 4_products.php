@@ -139,7 +139,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>
@@ -283,7 +283,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>
@@ -427,7 +427,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>

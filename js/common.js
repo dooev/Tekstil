@@ -2,7 +2,7 @@
 // $(document).ready(function() {
 // $('.sl').slick();
 // });
-let navItem = document.querySelectorAll('.nav-item'),
+var navItem = document.querySelectorAll('.nav-item'),
     head = document.querySelector('head');
   // navItem.addEventListener('click', () => {
   //   if (head) {}
