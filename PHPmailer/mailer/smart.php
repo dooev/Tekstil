@@ -2,12 +2,11 @@
 
 // $name = $_POST['user_name'];
 $phone_header = $_POST['user_phone_header'];
-$phone_modal = $_POST['user_phone_modal'];
-$phone_more1 = $_POST['user_phone_more1'];
-$phone_more2 = $_POST['user_phone_more2'];
-$phone_more3 = $_POST['user_phone_more3'];
-$phone_more4 = $_POST['user_phone_more4'];
+$phone_modal = $_POST['user_phone_offer'];
 
+
+// $token = "677900643:AAG89Cm4z9FhofV1aq70PiNUQFIZ3MD-JxA";
+// $chat_id = "";
 
 // принимаем значения utm меток
 $utm_source = $_POST['utm_source'];
@@ -23,16 +22,16 @@ $mail->CharSet = 'utf-8';
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.mail.ru';  // Specify main and backup SMTP servers
+$mail->Host = 'smtp.yandex.ru';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'dooevdima@mail.ru';                 // Наш логин
-$mail->Password = 'qwertyuillop';                           // Наш пароль от ящика
+$mail->Username = 'dooevdima@ya.ru';                 // Наш логин
+$mail->Password = 'Qwertyuillop4685632';                           // Наш пароль от ящика
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
  
-$mail->setFrom('dooevdima@mail.ru', 'Dima Dooev');   // От кого письмо 
-// $mail->addAddress('адрес почты');     // Add a recipient
-$mail->addAddress('dooevdima@mail.ru');               // Name is optional
+$mail->setFrom('dooevdima@ya.ru', 'Kandy текстиль');   // От кого письмо 
+// $mail->addAddress('forma-de@yandex.ru');     // Add a recipient
+$mail->addAddress('dooevdima@ya.ru');               // Name is optional
 //$mail->addReplyTo('info@example.com', 'Information');
 //$mail->addCC('cc@example.com');
 //$mail->addBCC('bcc@example.com');
@@ -40,15 +39,15 @@ $mail->addAddress('dooevdima@mail.ru');               // Name is optional
 // $mail->addAttachment($_FILES['upload'][tmp_name], $_FILES['upload'][name]);    // Optional name
 $mail->isHTML(true);                                  // Set email format to HTML
 
-$mail->Subject = 'Заявка с Добрый Картон';
+$mail->Subject = 'Заявка с сайта';
 $mail->Body    = 'Пользователь оставил свои данные <br> 
-	Имя: неизвестно <br>
-	Телефон: ' . $phone_header .''. $phone_modal .''. $phone_more1 .''. $phone_more2 .''. $phone_more3 .''. $phone_more4 .'
-	<br><br> Источник: ' . $utm_source . '
-	<br> Тип трафика: ' . $utm_medium . '
-	<br> Название кампании: ' . $utm_campaign . '
-	<br> Идентификатор объявления: ' . $utm_content .'
-	<br> Ключевое слово: ' . $utm_term .'';
+	Телефон: ' . $phone_header .''. $phone_modal .''. $phone_more1 .''. $phone_more2 .''. $phone_more3 .''. $phone_more4 .'';
+	// Имя: неизвестно <br>
+	// <br><br> Источник: ' . $utm_source . '
+	// <br> Тип трафика: ' . $utm_medium . '
+	// <br> Название кампании: ' . $utm_campaign . '
+	// <br> Идентификатор объявления: ' . $utm_content .'
+	// <br> Ключевое слово: ' . $utm_term .'';
 
 $mail->AltBody = 'Это альтернативный текст';
 

@@ -12,10 +12,10 @@
               <img class="fotorama__img" src="img/6.0_individually/1.jpg" alt="">
               <img class="fotorama__img" src="img/6.0_individually/2.jpg" alt="">
               <img class="fotorama__img" src="img/6.0_individually/3.jpg" alt="">
-              <img class="fotorama__img" src="img/6.0_individually/5.jpg" alt="">
+              <!-- <img class="fotorama__img" src="img/6.0_individually/5.jpg" alt=""> -->
               <img class="fotorama__img" src="img/6.0_individually/6.jpg" alt="">
               <!-- <img class="fotorama__img" src="img/6.0_individually/7.jpg" alt=""> -->
-              <img class="fotorama__img" src="img/6.0_individually/8.jpg" alt="">
+              <!-- <img class="fotorama__img" src="img/6.0_individually/8.jpg" alt=""> -->
               <img class="fotorama__img" src="img/6.0_individually/9.jpg" alt="">
 
             </div>
