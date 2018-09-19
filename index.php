@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-  <link rel="stylesheet" href="css/main.min.css">
+  <link rel="stylesheet" href="css/style.css">
   <meta name="yandex-verification" content="6cb648b3676c2adf" />
   
 
@@ -36,6 +36,7 @@
   <?php include '9_offer.php'; ?>
   <?php include 'footer.php'; ?>
   <?php include 'modal.php'; ?>
+  <link rel="stylesheet" href="css/main.min.css">
   <?php include 'scripts.php'; ?>
 
 
