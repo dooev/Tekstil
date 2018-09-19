@@ -6,7 +6,7 @@
       <!-- /.offer-title -->
       <form class="offer-form" action="PHPmailer/mailer/smart.php" method="POST">
         <label class="offer-form__label" for="offer-tel">Введите ваш номер телефона:</label>
-        <input id="phone_2" class="offer-form__input" name="user_phone-2" type="tel" required placeholder="+7 (ХХХ) ХХХ-ХХ-ХХ"> <!-- id='offer-tel'  -->
+        <input id="phone_2" class="offer-form__input phone" name="user_phone-2" type="tel" required placeholder="+7 (ХХХ) ХХХ-ХХ-ХХ"> <!-- id='offer-tel'  -->
         <!-- 
         <input type="hidden" name="utm_source" value="<?php $utm_source = $GET['utm_source']; echo $utm_source; ?>">
         <input type="hidden" name="utm_medium" value="<?php $utm_medium = $GET['utm_medium']; echo $utm_medium; ?>">

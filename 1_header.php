@@ -21,7 +21,7 @@
       <!-- /.header-contacts__phones -->
 
       <div class="btn-order header-contacts__btn">
-        <button class="button btn mob-sqare-btn" type="button" data-toggle="modal" data-target="#Modal-1" onclick="yaCounter49695742.reachGoal('topBtn'); return true;" value="Заказать"><i class="fas fa-phone"></i> <span class="hidden-mobile">Заказать звонок</span></button>
+        <button class="button btn mob-sqare-btn" type="button" data-toggle="modal" data-target="#Modal-1"  value="Заказать"><i class="fas fa-phone"></i> <span class="hidden-mobile">Заказать звонок</span></button><!-- onclick="yaCounter49695742.reachGoal('topBtn'); return true;" -->
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@
           </div>
           <!-- /.header-contacts__phones -->
           <div class="btn-order header-contacts__btn">
-            <button class="button mob-sqare-btn" type="button" data-toggle="modal" data-target="#Modal-1" onclick="yaCounter49695742.reachGoal('topBtn'); return true;" value="Заказать"><i class="fas fa-phone"></i> <span class="hidden-mobile">Заказать звонок</span></button>
+            <button class="button mob-sqare-btn" type="button" data-toggle="modal" data-target="#Modal-1"  value="Заказать"><i class="fas fa-phone"></i> <span class="hidden-mobile">Заказать звонок</span></button><!-- onclick="yaCounter49695742.reachGoal('topBtn'); return true;" -->
           </div>
           <!-- /.header__btn -->
         </div>

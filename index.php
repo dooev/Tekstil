@@ -10,24 +10,19 @@
   <link rel="stylesheet" href="css/main.min.css">
   <meta name="yandex-verification" content="6cb648b3676c2adf" />
   
-  <?php $text = 'упаковки';
-      $utm_term = $_GET['utm_term'];
-      if (!empty($utm_term)) {
-        if ($utm_term == 'kartbox') {
-          $text = 'коробок';
-        }
-}
-?>
+
   <?php include 'scriptsMetrika.php'; ?>
-  
+
   <?php include 'scriptsPHP.php'; ?>
 
 </head>
 
 <body>
-  <noscript>
-    <div><img src="https://mc.yandex.ru/watch/49695742" style="position:absolute; left:-9999px;" alt="" /></div>
-  </noscript>
+<!--   <noscript>
+    <div>
+      <img src="https://mc.yandex.ru/watch/49695742" style="position:absolute; left:-9999px;" alt="" />
+    </div>
+  </noscript> -->
   <?php include '1_header.php'; ?>
   <?php include '2_main.php'; ?>
   <?php include '3_features.php'; ?>

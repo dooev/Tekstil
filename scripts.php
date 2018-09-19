@@ -31,6 +31,15 @@ $('.sl').slick({
 </script>
 <!-- maskedinput.js animate START -->
 <script src="libs/js/jquery.maskedinput.min.js"></script>
+<script>
+  jQuery(function($) {
+
+  $.mask.definitions['~']='[+-]';
+
+  $('.phone').mask('+9 (999) 999-9999');
+
+  });
+</script>
 <!-- WOW.js animate START -->
 <script src="libs/js/wow.min.js"></script>
 <script>
