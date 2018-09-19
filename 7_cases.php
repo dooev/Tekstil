@@ -4,7 +4,7 @@
   <div class="row">
         <div class="col-12 col-md-10 offset-md-1">
           <div class="cases-slider">
-            <div class="fotorama" data-nav="thumbs" data-maxheight="85%" 
+            <div class="fotorama" data-nav="thumbs" 
              data-thumbwidth="115" data-thumbheight='78' data-transition="slide" data-loop="true" data-navwidth='100%' data-thumbmargin='7' data-arrows='false' data-fit='contain' data-autoplay="true">
               <img class="fotorama__img" src="img/7_cases/111.jpg" 
               data-caption='
@@ -48,7 +48,7 @@
               <img class="fotorama__img" src="img/7_cases/777.jpg" data-caption='
               <b>Цена: 108000 руб</b><br>
               <b>Сроки: 2 дня</b><br>
-              <b>Заказ: </b>Фуршетный текстиль для Мастерской Вкуса. <br> 40 чехлов для Коктельных столов, 20 стрейч-чехлов для фуршетных прямоугольных столов, Шапки для коктельного стола 20 единиц' alt="">
+              <b>Заказ: </b>Фуршетный текстиль для Мастерской Вкуса. <br> 40 чехлов для Коктельных столов, 20 стрейч-чехлов для фуршетных прямоугольных столов, шапки для коктельного стола 20 единиц' alt="">
               
               <img class="fotorama__img" src="img/7_cases/800.jpg" data-caption='
               <b>Цена: Сарафан 6500 руб / Косоворотка 4400 руб</b><br>

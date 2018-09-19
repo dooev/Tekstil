@@ -3,7 +3,7 @@
   <div id='tablecloth' class="container">
     <h2 class="section-title">Скатерти, напероны и салфетки</h2>
     <span class="section-subtitle">
-Пошив <b>любых</b><br> видов скатертей, наперонов, салфеток, фуршетных юбок, банкетного текстиля. Материалы и размеры любые! На сайте представлены цены на пошив стандартных изделий.</span>
+Пошив любых видов скатертей, наперонов, салфеток, фуршетных юбок, банкетного текстиля. Материалы и размеры любые! На сайте представлены цены на пошив стандартных изделий.</span>
     <!-- /.section-title -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -155,7 +155,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog flipInX  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>
@@ -302,7 +302,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog flipInX  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>
@@ -448,7 +448,7 @@
     </div>
     <!-- /.row -->
     <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">
-      <button class="button button-full-katalog pulse  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
+      <button class="button button-full-katalog flipInX  animated wow" type="button" type="submit">Посмотреть полный каталог с ценами
       </button>
     </a>
   </div>
