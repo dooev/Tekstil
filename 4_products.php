@@ -172,7 +172,7 @@
           <img class="products-block__img " src="img/4_products/stretch/1.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;1700руб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч-чехол на коктельный стол</b><br>
+          <div class="products-block__subtitle"><b>Стрейч-чехол на коктейльный стол</b><br>
              <b>Цвет:</b> однотонный<br>
 
           </div>
@@ -190,7 +190,7 @@
           <img class="products-block__img " src="img/4_products/stretch/2.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;3000pуб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч-чехол на коктельный стол</b><br>
+          <div class="products-block__subtitle"><b>Стрейч-чехол на коктейльный стол</b><br>
              <b>Цвет:</b> индивидуальный дизайн<br>
           </div>
           <!-- /.products-block__title -->
@@ -402,7 +402,7 @@
           <img class="products-block__img " src="img/4_products/uniform/6.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;3800pуб
           </div>
-          <div class="products-block__subtitle"><b>Фартук с кожаной фурнитуров
+          <div class="products-block__subtitle"><b>Фартук с кожаной фурнитурой
 для бармена </b>
           </div>
           <!-- /.products-block__title -->
