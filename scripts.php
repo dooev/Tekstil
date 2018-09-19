@@ -36,3 +36,4 @@ $('.sl').slick({
 <script>
 new WOW().init();
 </script>
+<script src="libs/js/popup_img.js"></script>

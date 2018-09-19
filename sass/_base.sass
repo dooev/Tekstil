@@ -5,6 +5,7 @@
 
 html, body
 	height: 100%
+	margin: 0
 
 body
 	font-size: 16px
@@ -32,7 +33,43 @@ a
 	// color: #333
 
 
+.image 
+	margin: 30px
+	cursor: zoom-in
 
+.popup 
+	position: absolute
+	height: 100%
+	width: 100%
+	top: 0
+	left: 0
+	display: none
+	text-align: center
+
+.popup_bg 
+	background: rgba(0,0,0,0.3)
+	position: fixed
+	z-index: 1
+	top: 0
+	left: 0
+	bottom: 0
+	right: 0
+	width: auto
+  height: auto
+
+
+.popup_img 
+	position: fixed
+	z-index: 2
+	left: 50%
+	top: 50%
+	transform: translate(-50%,-50%)
+	max-height: 90%
+	width: 50%
+	border-radius: 50%;
+
+.popup_img 
+  pointer-events: none
 
 
 
