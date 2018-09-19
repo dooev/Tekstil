@@ -29,14 +29,7 @@
     <!-- /.row -->
     <div class="main-text_form">
       <div class="numbers">
-        <div class="numbers-block">
-          <div class="numbers-block__title">за 24 часа!
-          </div>
-          <!-- /.numbers-block__title -->
-          <div class="numbers-block__text">Супер быстрый пошив!</div>
-          <!-- /.numbers-block__text -->
-        </div>
-        <!-- /.numbers-block -->
+        
         <div class="numbers-block">
           <div class="numbers-block__title">бесплатно
           </div>
@@ -53,7 +46,14 @@
           <!-- /.numbers-block__text -->
         </div>
         <!-- /.numbers-block -->
-
+        <div class="numbers-block">
+          <div class="numbers-block__title">за 24 часа
+          </div>
+          <!-- /.numbers-block__title -->
+          <div class="numbers-block__text">cупер быстрый пошив!</div>
+          <!-- /.numbers-block__text -->
+        </div>
+        <!-- /.numbers-block -->
       </div>
       <!-- /.numbers -->
     </div>

@@ -3,7 +3,7 @@
   <div id='tablecloth' class="container">
     <h2 class="section-title">Скатерти, напероны и салфетки</h2>
     <span class="section-subtitle">
-Пошив <b>любых</b>и<br> видов скатертей, наперонов, салфеток, фуршетных юбок, банкетного текстиля. Материалы и размеры любые! На сайте представлены цены на пошив стандартных изделий.</span>
+Пошив <b>любых</b><br> видов скатертей, наперонов, салфеток, фуршетных юбок, банкетного текстиля. Материалы и размеры любые! На сайте представлены цены на пошив стандартных изделий.</span>
     <!-- /.section-title -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -11,7 +11,10 @@
           <img class="products-block__img " src="img/4_products/tablecloth/1.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;2000руб
           </div>
-          <div class="products-block__subtitle"><b>Скатерть</b><br> на круглые столы 1,8 м. из Хлопка с полиэфиром.
+          <div class="products-block__subtitle"><b>Скатерть</b>
+            <br>
+             <b>Размер:</b> круглые столы 1,8м<br>
+            <b>Ткань:</b> хлопок с полиэфиром
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -27,7 +30,9 @@
           <img class="products-block__img " src="img/4_products/tablecloth/2.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;2500pуб
           </div>
-          <div class="products-block__subtitle"><b>Натуральные скатерти</b><br> на круглые столы 1,8 м. <b>из хлопка.</b><br>
+          <div class="products-block__subtitle"><b>Натуральные скатерти</b><br>
+             <b>Размер:</b> круглые столы 1,8м<br>
+            <b>Ткань:</b> хлопок
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -43,7 +48,10 @@
           <img class="products-block__img " src="img/4_products/tablecloth/3.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;550руб
           </div>
-          <div class="products-block__subtitle"><b>Дорожка Раннер</b><br> 45х150 Ткань Габардин.
+          <div class="products-block__subtitle"><b>Дорожка Раннер</b><br>
+             <b>Размер:</b> 45 х 150 <br>
+            <b>Ткань:</b> габардин
+           
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -58,8 +66,9 @@
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/tablecloth/4.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;2500руб</div>
-          <div class="products-block__subtitle"><b>Наперон</b><br> на Банкетный стол.
-            <span>Квадрат 2,4 х 2,4 м.</span>
+          <div class="products-block__subtitle"><b>Наперон</b><br>
+            <b>Размер:</b> 2,4м х 2,4м<br>
+            <b>Ткань:</b> хлопок с полиэфиром
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -78,7 +87,10 @@
           <img class="products-block__img " src="img/4_products/tablecloth/5.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;2000руб
           </div>
-          <div class="products-block__subtitle"><b>Набор 10 штук Салфетки</b><br> 45см х 45см Хлопок
+          <div class="products-block__subtitle"><b>Набор 10 штук Салфетки</b><br> 
+             <b>Размер:</b> 45см х 45см<br>
+            <b>Ткань:</b> хлопок
+
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -94,7 +106,7 @@
           <img class="products-block__img " src="img/4_products/tablecloth/6.jpg" alt="#">
           <div class="products-block__title">Цена от 250pуб
           </div>
-          <div class="products-block__subtitle"><b>Куверты и Подприборники</b><br> по индивидуальному дизайну
+          <div class="products-block__subtitle"><b>Куверты и Подприборники</b><br> по индивидуальному дизайну<br>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -110,7 +122,9 @@
           <img class="products-block__img " src="img/4_products/tablecloth/7.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;2250руб
           </div>
-          <div class="products-block__subtitle"><b>Банкетная юбка</b><br>длина 5м х высота 75см. <br>Ткань 100% полиэстер.
+          <div class="products-block__subtitle"><b>Банкетная юбка</b><br>
+             <b>Размер:</b> 5м х высота 75см<br>
+            <b>Ткань:</b> 100% полиэстер
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -125,7 +139,9 @@
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/tablecloth/8.jpg" alt="#">
           <div class="products-block__title">Цена &nbsp;3700руб</div>
-          <div class="products-block__subtitle"><b>Банкетная юбка</b><br> длина 5м х высота 75см. <br>Ткань Банкетная Сатен.
+          <div class="products-block__subtitle"><b>Банкетная юбка</b><br> 
+             <b>Размер:</b> 5м х высота 75см<br>
+            <b>Ткань:</b> сатен
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -148,15 +164,17 @@
   <!-- stretch START-->
   <div id="stretch" class="container">
     <h2 class="section-title">Стрейч чехлы</h2>
-    <span class="section-subtitle">Чехлы на стулья, банты и другой декор могут быть изготовлены в любом цвете, размере и из любого материала. Здесь мы представили цены на типовые изделия.</span>
+    <span class="section-subtitle">Чехлы на стулья и столы из бифлекса имеют способность растягиваться, увеличиваясь до 300%. Не требуют сложного ухода и сохраняют свой вид даже при многократных стирках. Чехлы могут быть изготовлены в любом цвете и размере. Здесь мы представили цены на типовые изделия.</span>
     <!-- /.section-title -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/1.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1800руб
+          <div class="products-block__title">Цена &nbsp;1700руб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол</b><br> на круглый столы.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на коктельный стол</b><br>
+             <b>Цвет:</b> однотонный<br>
+
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -170,9 +188,10 @@
       <div class="d-none d-sm-block col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/2.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1300pуб
+          <div class="products-block__title">Цена &nbsp;3000pуб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол с рисунком</b>и<br> на круглый столы.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на коктельный стол</b><br>
+             <b>Цвет:</b> индивидуальный дизайн<br>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -186,9 +205,9 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/3.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1250руб
+          <div class="products-block__title">Цена &nbsp;2100руб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол</b><br> на прямоугольный стол 1,5 м.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на фуршетный стол</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -202,8 +221,8 @@
       <div class="d-none d-sm-block col-sm-6 d-md-none d-lg-block col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/4.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1600руб</div>
-          <div class="products-block__subtitle"><b>Стрейч чехол </b>и<br> Круглый стол 1,5 м.
+          <div class="products-block__title">Цена &nbsp;2900руб</div>
+          <div class="products-block__subtitle"><b>Стрейч-чехол на банкетный стол</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -220,9 +239,9 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/5.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1800руб
+          <div class="products-block__title">Цена &nbsp;450руб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол </b>и<br> на обычный стул.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на классический стул</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -236,9 +255,9 @@
       <div class="d-none d-sm-block col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/6.png" alt="#">
-          <div class="products-block__title">Цена &nbsp;1300pуб
+          <div class="products-block__title">Цена &nbsp;1500pуб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол </b>и<br> на стул, с рисунком.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на банкетный стул с индивидуальным дизайном </b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -252,9 +271,9 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/7.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1250руб
+          <div class="products-block__title">Цена &nbsp;850руб
           </div>
-          <div class="products-block__subtitle"><b>Стрейч чехол </b>и<br> на стул с юбкой.
+          <div class="products-block__subtitle"><b>Стрейч-чехол на стул с юбкой</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -268,8 +287,8 @@
       <div class="d-none d-sm-block col-sm-6 d-md-none d-lg-block col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/stretch/8.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1600руб</div>
-          <div class="products-block__subtitle"><b>Стрейч чехол </b>и<br> на стул с юбой и бантом.
+          <div class="products-block__title">Цена &nbsp;1200руб</div>
+          <div class="products-block__subtitle"><b>Стрейч-чехол на стул с юбой и бантом</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -292,15 +311,15 @@
   <!-- uniform START-->
   <div id="uniform" class="container">
     <h2 class="section-title">Униформа и фартуки</h2>
-    <span class="section-subtitle">Мы производим классические и нестандартные фартуки, поварскую униформу, форму для официантов, форму для работников торговли и сферы обслуживания, костюмы для горничных и уборщиц.</span>
+    <span class="section-subtitle"> Коллекция униформы от Kandy сезон 2018/2019 состоит из более чем 100 моделей. Но мы всегда готовы работать по вашему Дизайн-проекту. Материалы и размеры любые! На сайте представлены цены на пошив стандартных изделий.</span>
     <!-- /.section-title -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/1.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;800руб
+          <div class="products-block__title">Цена &nbsp;650руб
           </div>
-          <div class="products-block__subtitle"><b>Скатерть</b><br> на круглый столы 3 м. из хлопка.
+          <div class="products-block__subtitle"><b>Фартуки с грудкой на пищевые производства</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -314,9 +333,9 @@
       <div class="d-none d-sm-block col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/2.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;300pуб
+          <div class="products-block__title">Цена &nbsp;1000pуб
           </div>
-          <div class="products-block__subtitle"><b>Скатерть</b><br> на круглый столы 1,8 м. из сатина.
+          <div class="products-block__subtitle"><b>Фартук для официанта, банкетный, с логотипом</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -330,9 +349,9 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/3.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;250руб
+          <div class="products-block__title">Цена &nbsp;1450руб
           </div>
-          <div class="products-block__subtitle"><b>Наперон</b>и<br>, 1,5 м. из сатина.
+          <div class="products-block__subtitle"><b>Униформа поваров для заведений общественного питания</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -346,8 +365,8 @@
       <div class="d-none d-sm-block col-sm-6 d-md-none d-lg-block col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/4.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;600руб</div>
-          <div class="products-block__subtitle"><b>Наперон</b>и<br> круглый, на столы 1,8 м. из сатина.
+          <div class="products-block__title">Цена &nbsp;900руб</div>
+          <div class="products-block__subtitle"><b>Фартук перекидной для работников торговли</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -364,9 +383,10 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/5.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1800руб
+          <div class="products-block__title">Цена &nbsp;1200руб
           </div>
-          <div class="products-block__subtitle"><b>Салфетки</b><br> от 10 шт из хлопка.
+          <div class="products-block__subtitle"><b>Фартук-жилет  </b><br>
+          Спецпредложение для кейтеринговых компаний
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -380,9 +400,10 @@
       <div class="d-none d-sm-block col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/6.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1300pуб
+          <div class="products-block__title">Цена &nbsp;3800pуб
           </div>
-          <div class="products-block__subtitle"><b>Салфетки </b>и<br>, комплект 10 пар, из сатина.
+          <div class="products-block__subtitle"><b>Фартук с кожаной фурнитуров
+для бармена </b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -396,9 +417,9 @@
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/7.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1250руб
+          <div class="products-block__title">Цена &nbsp;900руб
           </div>
-          <div class="products-block__subtitle"><b>Банкетная юбка</b><br>, на квадратный стол 3,5 м. из хлопка.
+          <div class="products-block__subtitle"><b>Фартук для официанта с разрезом</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
@@ -412,8 +433,8 @@
       <div class="d-none d-sm-block col-sm-6 d-md-none d-lg-block col-lg-3">
         <div class="products-block">
           <img class="products-block__img " src="img/4_products/uniform/8.jpg" alt="#">
-          <div class="products-block__title">Цена &nbsp;1600руб</div>
-          <div class="products-block__subtitle"><b>Банкетная юбка</b><br> на круглые столы 1,8 м. из сатина.
+          <div class="products-block__title">Цена &nbsp;450руб</div>
+          <div class="products-block__subtitle"><b>Фартук прямой</b>
           </div>
           <!-- /.products-block__title -->
           <div class="products-block__buttons">
