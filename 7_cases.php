@@ -4,7 +4,7 @@
   <div class="row">
         <div class="col-12 col-md-10 offset-md-1">
           <div class="cases-slider">
-            <div class="fotorama" data-nav="thumbs" data-thumbwidth="115" data-thumbheight='78' data-transition="slide" data-loop="true" data-navwidth='100%' data-thumbmargin='7' data-arrows='always' data-fit='contain'>
+            <div class="fotorama" data-nav="thumbs" data-maxheight="85%" data-thumbwidth="115" data-thumbheight='78' data-transition="slide" data-loop="true" data-navwidth='100%' data-thumbmargin='7' data-arrows='false' data-fit='contain' data-autoplay="true">
               <img class="fotorama__img" src="img/7_cases/111.jpg" data-caption='60 стрейч чехлов на коктельные столы <br>
               <b>Цена: 7600 руб</b><br>
               <b>Сроки: 2 дня</b><br>
