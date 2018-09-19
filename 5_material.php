@@ -1,7 +1,7 @@
 <section id="material" class="material">
   <div class="container">
     <h2 class="section-title">Ткани и материалы</h2>
-    <span class="section-subtitle">Очень хорошие ткани. Долговечные. Хоть каждый день стирай. <br> Полный каталог тканей, можно посмотреть <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">тут</a>.</span>
+    <span class="section-subtitle">Для создания высококачественных текстильных изделий компания Kandy использует ткани ведущих Российских и Мировых фабрик. <!-- <br> Полный каталог тканей, можно посмотреть <a href="https://drive.google.com/file/d/1qDTmWg5YM7a1bvLci_LVx5k9Z4gynCje/view?usp=sharing" target="_blank">тут</a>. --></span>
     <!-- /.section-title -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-4">
